@@ -1,5 +1,5 @@
 # Launch this Presentation
-[UP20 - Slideshow](https://lionroy.github.io/github-slideshow/)
+[UP20 - Slideshow](https://lionroy.github.io/UP20-Penguin-August/)
 
 Welcome to UP20 slideshow. 
 
@@ -27,5 +27,5 @@ All you need do is start editing content followed by decent Pull Requests
 **This is an opensource presentation for the 2018 August Penguin opencource conference, TLV**
 
 I'll meet you over there, can't wait to get started!
-[UP20 - Slideshow](https://lionroy.github.io/github-slideshow/)
+[UP20 - Slideshow](https://lionroy.github.io/UP20-Penguin-August/)
 
